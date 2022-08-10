@@ -1,16 +1,19 @@
-# simple_poke_app
+# Pokemon
 
-A new Flutter project.
+Creacion de aplicación mobile en Flutter.
 
-## Getting Started
+Creation of mobile application in Flutter.
 
-This project is a starting point for a Flutter application.
+## App with Flutter
 
-A few resources to get you started if this is your first Flutter project:
+En este repositorio encontrarás una lista simple que trae a los pokemnes usando los datos de su api.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+In this repository you will find a simple list that brings the pokemons using their api data.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---------------------------------------------------------------------------------------------------------
+> URL Breaking Bad Api ->
+[Click here](https://breakingbadapi.com/)
+
+
+---------------------------------------------------------------------------------------------------------
+![foto de cabecera](https://static.wikia.nocookie.net/doblaje/images/2/2c/PokemonSerieOriginal.jpg/revision/latest/top-crop/width/360/height/450?cb=20200909000101&path-prefix=es)
