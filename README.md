@@ -6,13 +6,13 @@ Creation of mobile application in Flutter.
 
 ## App with Flutter
 
-En este repositorio encontrarás una app que hice basado en dribbble.
+En este repositorio encontraras una lista simple que trae a los pokemons usando su api.
 
-In this repository you will find a simple list that brings the pokemons using their api data.
+In this repository you will find a simple list that fetch pokemons using their api.
 
 ---------------------------------------------------------------------------------------------------------
 > URL Pokemon Api ->
-[Click here](https://breakingbadapi.com/)
+[Click here](https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json/)
 
 
 ---------------------------------------------------------------------------------------------------------
