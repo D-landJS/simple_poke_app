@@ -6,14 +6,14 @@ Creation of mobile application in Flutter.
 
 ## App with Flutter
 
-En este repositorio encontrarás un diseño de dribbble creado en ui.
+En este repositorio encontrarás una app que hice basado en dribbble.
 
-In this repository you will find a user interface I made based on dribbble.
-
----------------------------------------------------------------------------------------------------------
-> URL Breaking Bad Api ->
-[Click here](https://dribbble.com/shots/15475209-Coffee-Shop-Mobile-Apps-Dark-Mode/)
-
+In this repository you will find a simple list that brings the pokemons using their api data.
 
 ---------------------------------------------------------------------------------------------------------
-![foto de cabecera](https://cdn.dribbble.com/users/2947819/screenshots/15475209/media/429371ad39efd45ffeddf587b2e8c6e3.png)
+> URL Pokemon Api ->
+[Click here](https://breakingbadapi.com/)
+
+
+---------------------------------------------------------------------------------------------------------
+![foto de cabecera](https://static.wikia.nocookie.net/doblaje/images/2/2c/PokemonSerieOriginal.jpg/revision/latest/top-crop/width/360/height/450?cb=20200909000101&path-prefix=es)
