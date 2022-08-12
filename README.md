@@ -12,7 +12,7 @@ In this repository you will find a simple list that fetch pokemons using their a
 
 ---------------------------------------------------------------------------------------------------------
 > URL Pokemon Api ->
-[Click here](https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json/)
+[Click here](https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json)
 
 
 ---------------------------------------------------------------------------------------------------------
